@@ -1,0 +1,6 @@
+# ninja log v5
+1	231	6623909476652851	CMakeFiles/networkingLabCat1.dir/main.c.obj	dd06b7e3bd955605
+232	633	6623909480539994	networkingLabCat1.exe	a3efbda3d2544cf6
+3	583	6623910086207287	build.ninja	c85bdd76e7330274
+0	217	6623910090677335	CMakeFiles/networkingLabCat1.dir/sniffercat1.c.obj	b77f22c971374e6d
+218	458	6623910092914896	networkingLabCat1.exe	de63f1c5077360da
